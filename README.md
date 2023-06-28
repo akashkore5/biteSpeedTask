@@ -23,7 +23,7 @@ https://bitespeedtask-production.up.railway.app/identity
 
 This endpoint allows you to identify a contact based on their email and phone number.
 
-- URL: /identity
+- URL: [URL](https://bitespeedtask-production.up.railway.app/identity)
 - Method: POST
 - Headers: 
     - Key: Content-Type, Value: application/json
