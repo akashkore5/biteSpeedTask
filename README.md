@@ -2,6 +2,11 @@
 
 This guide provides information on how to use the BiteSpeed Task API endpoints and run them in Postman.
 
+## What Tech Stack I used
+- Project is developed on spring framework with java , hibernate, JDBC
+- Deployed on railway app exposing the 1 endpoint
+- MySql database for data storage
+  
 ## BiteSpeed Task API
 
 The BiteSpeed Task API provides an endpoint for identifying contacts based on their email and phone number.
