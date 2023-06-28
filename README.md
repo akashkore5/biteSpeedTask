@@ -67,6 +67,6 @@ To run the API endpoints in Postman, follow these steps:
 
 ## Additional Links
 
-- [Resume]([https://your-resume-link.com](https://drive.google.com/file/d/1L_KCcIBjF8h-AthIZlS-wkB1vuOJffmK/view?usp=drive_link)) - Link to resume.
+- [Resume]((https://drive.google.com/file/d/1L_KCcIBjF8h-AthIZlS-wkB1vuOJffmK/view?usp=drive_link)) - Link to resume.
 
 Feel free to reach out if you have any questions or need further assistance.
