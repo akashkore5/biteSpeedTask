@@ -20,6 +20,9 @@ public class ContactService {
         this.contactRepository = contactRepository;
     }
 
+    public ContactPayload identifyContactRedirect(String email, String phoneNumber) {
+         return identifyContact(String email, String phoneNumber);
+    }
     public ContactPayload identifyContact(String email, String phoneNumber) {
         List<Contact> contacts = (List<Contact>) contactRepository.findByEmailOrPhoneNumber(email, phoneNumber);
 
